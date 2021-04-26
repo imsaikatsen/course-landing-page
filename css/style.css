@@ -1,0 +1,23 @@
+body{
+    width: 1280px;
+    margin: 0px 40px;
+}
+
+.custom-container{
+  width: 1140px;
+    
+}
+
+.header{
+  background-image: url("../images/background.png");
+  width: auto;
+  height: auto;
+
+  
+}
+
+.vedio{
+  background-color: black;
+  width: 400px;
+  height: 250px;
+}
