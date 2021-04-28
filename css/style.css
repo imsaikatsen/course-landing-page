@@ -1,29 +1,19 @@
-body {
+body{
   max-width: 100%;
   overflow-x: hidden;
 }
 
-
-
-.header{
+header{
   background-image: url("../images/background.png");
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  width: 100%;
+  height: 100%;
+ 
 }
 
-
-.custom-header{
-
-  margin: 0px 50px;
-  
-}
 
 .logo-img{
   padding-top: 30px;
+  margin-left: 20px;
 }
 .card {
     width: 382px;
@@ -31,6 +21,8 @@ body {
     margin-top: 57px;
     margin-bottom: 32px;
     border-radius: 10px;
+    float: right;
+    margin-right: 50px;
 }
 
 .vedio{
@@ -70,18 +62,23 @@ body {
   padding-bottom: 25px;
 }
 
-button.btn.btn-primary {
+ .custom-button{
   margin-left: 38px;
-  border-radius: 20px;
   background-color: #ffd500;
   color: black;
-  font-size: 20px;
+  border-radius: 15px;
+  padding: 8px;
+  font-size: 18px;
   font-weight: 600;
-  height: 37px;
-  width: 39%;
+  padding-left: 14px;
+  padding-right: 14px;
   border: none;
-  padding-top: 4px;
 }
+
+
+
+
+
 
 .learn-more-txt{
   padding-left: 10px;
@@ -220,71 +217,47 @@ h3 {
     color: #5b3be9;
 }
 
-.first-button {
-  margin: 34px auto;
-  display: block;
-  border-radius: 20px;
-  background-color: #ffd500;
-  color: black;
-  font-size: 20px;
-  font-weight: 600;
-  height: 40px;
-  width: 22% !important;
-  border: none;
+.custom-padding-top{
+  padding-top: 28px;
 }
 
-.second-button {
-    margin: 34px auto;
-    display: block;
-    border-radius: 20px;
-    background-color: #ffd500;
-    color: black;
-    font-size: 20px;
-    font-weight: 600;
-    height: 40px;
-    width: 19% !important;
-    border: none;
-}
 
 .main-content-area{
 
   background-image: url("../images/background-2.png");
-  height: 350px;
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  height: 403px;
+  width: 100%;
   
 }
 
 .custom-box{
-    border: 1px solid #e6e0e0;;
-    background-color: white;
-    text-align: center;
-    line-height: 0.5;
-    padding-top: 29px;
-    height: 86px;
-    width: 150px;
-    font-family: 'Poppins';
-    color: #5b3be9;
+  border: 1px solid #e6e0e0;
+  background-color: white;
+  text-align: center;
+  line-height: 0.5;
+  padding-top: 32px;
+  height: 97px;
+  width: 170px;
+  font-family: 'Poppins';
+  color: #5b3be9;
 }
 
 .custom-box-two{
-
-    border: 1px solid #e6e0e0;;
+    margin-left: 22px;
+    border: 1px solid #e6e0e0;
     background-color: white;
     text-align: center;
     line-height: 0.5;
-    padding-top: 29px;
-    height: 86px;
-    width: 150px;
+    padding-top: 32px;
+    height: 97px;
+    width: 170px;
     font-family: 'Poppins';
     color: #5b3be9;
-    margin-left: 22px;
 }
 
+/* .profile{
+  float: right;
+} */
 
 .profile-img-bg{
   height: 550px;
@@ -323,29 +296,24 @@ h3 {
     line-height: 1.5;
 }
 
-.footer{
+footer{
   background-image: url("../images/footer-bg.png");
   height: 300px;
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  
+  width: 100%;
 }
 
-.bottom-button{
+.enroll-button{
   margin: 30px auto;
   display: block;
-  border-radius: 20px;
+  border-radius: 15px;
   background-color: #ffd500;
   color: black;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 600;
   height: 42px;
-  width: 20% !important;
   border: none;
+  padding-left: 14px;
+  padding-right: 14px;
 }
 
 .bottom-txt{
@@ -363,3 +331,11 @@ h3 {
   margin-top: -11px;
   margin-left: 93px;
 }
+
+.custom-card-area{
+  padding-left: 12%;
+
+}
+
+.custom-build-app {display: contents;}
+
