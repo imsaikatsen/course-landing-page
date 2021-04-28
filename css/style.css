@@ -26,7 +26,7 @@ body {
   padding-top: 30px;
 }
 .card {
-    width: 375px;
+    width: 382px;
     height: 550px;
     margin-top: 57px;
     margin-bottom: 32px;
@@ -77,9 +77,10 @@ button.btn.btn-primary {
   color: black;
   font-size: 20px;
   font-weight: 600;
-  height: 40px;
-  width: 40%;
+  height: 37px;
+  width: 39%;
   border: none;
+  padding-top: 4px;
 }
 
 .learn-more-txt{
@@ -356,4 +357,9 @@ h3 {
   font-family: 'Poppins';
   margin-top: 50px;
   font-weight: 100;
+}
+
+.courasel-area{
+  margin-top: -11px;
+  margin-left: 93px;
 }
