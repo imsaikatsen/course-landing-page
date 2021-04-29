@@ -3,6 +3,20 @@ body{
   overflow-x: hidden;
 }
 
+
+.container{
+    flex-grow: 1;
+    margin: 0 auto;
+    position: relative;
+    max-width: 1200px;
+}
+
+@media screen and (min-width: 1224px){
+  .container {
+    max-width: 1160px;
+}
+
+}
 header{
   background-image: url("../images/background.png");
   width: 100%;
@@ -16,13 +30,11 @@ header{
   margin-left: 20px;
 }
 .card {
-    width: 382px;
-    height: 550px;
-    margin-top: 57px;
-    margin-bottom: 32px;
-    border-radius: 10px;
-    float: right;
-    margin-right: 50px;
+  width: 382px;
+  height: 550px;
+  margin-top: 57px;
+  margin-bottom: 32px;
+  border-radius: 10px;
 }
 
 .vedio{
@@ -63,21 +75,27 @@ header{
 }
 
  .custom-button{
+
   margin-left: 38px;
   background-color: #ffd500;
   color: black;
-  border-radius: 15px;
-  padding: 8px;
+  border-radius: 20px;
   font-size: 18px;
   font-weight: 600;
-  padding-left: 14px;
-  padding-right: 14px;
+  padding-left: 18px;
+  padding-right: 18px;
   border: none;
+  height: 52px;
+
 }
 
 
 
-
+.long-heading{
+  font-size: 15px;
+  font-family: 'Poppins';
+  font-weight: 600;
+}
 
 
 .learn-more-txt{
@@ -169,7 +187,8 @@ header{
 
 .padding-top-100{
   padding-top: 100px;
-  padding-bottom: 50px;
+  padding-bottom: 40px;
+  background: white;
 }
 
 .course-title{
@@ -196,7 +215,7 @@ header{
 
 .item-number-txt{
   margin-bottom: 0px;
-  padding-left: 10px;
+  padding-left: 15px;
   padding-top: 5px;
 }
 
@@ -217,8 +236,12 @@ h3 {
     color: #5b3be9;
 }
 
-.custom-padding-top{
+.custom-padding-top-28{
   padding-top: 28px;
+}
+
+.custom-padding-top-50{
+  padding-top: 33px;
 }
 
 
@@ -293,7 +316,7 @@ h3 {
     text-align: right;
     width: 500px;
     height: auto;
-    line-height: 1.5;
+    line-height: 1.8;
 }
 
 footer{
@@ -305,15 +328,15 @@ footer{
 .enroll-button{
   margin: 30px auto;
   display: block;
-  border-radius: 15px;
+  border-radius: 20px;
   background-color: #ffd500;
   color: black;
   font-size: 18px;
   font-weight: 600;
-  height: 42px;
   border: none;
-  padding-left: 14px;
-  padding-right: 14px;
+  padding-left: 18px;
+  padding-right: 18px;
+  height: 52px;
 }
 
 .bottom-txt{
@@ -325,6 +348,7 @@ footer{
   font-family: 'Poppins';
   margin-top: 50px;
   font-weight: 100;
+  text-align: center;
 }
 
 .courasel-area{
@@ -338,4 +362,6 @@ footer{
 }
 
 .custom-build-app {display: contents;}
+
+
 
