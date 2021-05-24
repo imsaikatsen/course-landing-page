@@ -1,0 +1,3111 @@
+@media only screen and (min-width:320px) and (max-width: 339px) {
+      .card {
+        width: 290px;
+        height: auto;
+        margin-top: 33px;
+      }
+      .engineer-title{
+        padding-left: 28px;
+        font-size: 26px;
+      }
+      .carrier-focus-txt{
+        padding-top: 43px;
+        padding-left: 28px;
+        font-size: 15px;
+      }
+      .engineer-details {
+        width: 280px;
+        padding-left: 24px;
+        font-size: 14px;
+    }
+
+    .vedio {
+        margin-left: 10px;
+        width: 254px;
+        height: auto;
+    }
+
+    .custom-card-area{
+        padding-left: 20%;
+      
+      }
+
+      .custom-button{
+
+        margin-left: 13px;
+        height: 41px;
+        margin-bottom: 10px;
+}
+
+    .learn-more-txt{
+        padding-left: 104px;
+    }
+
+    .custom-item-area {
+      height: auto;
+      width: 370px;
+      padding-left: 20px;
+  }
+     
+      .enroll-button {
+        border-radius: 15px;
+        font-size: 15px;
+        font-weight: 600;
+        height: 42px;
+    }
+
+    .custom-profile-title {
+      padding-top: 290px;
+      font-size: 28px;
+    }
+
+    .custom-profile-body{
+      font-size: 12px;
+      text-align: left;
+      width: 275px;
+  }
+
+    .profile-img{
+      height: 210px;
+      top: 56px;
+      left: 64px;
+    }
+
+    .profile-img-bg{
+      height: 278px;
+      position: absolute;
+      top: 36px;
+      left: 19px;
+      z-index: 1;
+    }
+
+    .custom-box-two {
+        margin-bottom: 12px;
+    }
+
+    .custom-box{
+        margin-left: 23px;
+        margin-bottom: 12px;
+      }
+
+      .main-content-area{
+        height: auto;
+        
+      }
+
+      .custom-padding-top-28{
+        padding-top: 28px;
+        padding-bottom: 28px;
+      }
+
+      .text-lesson{
+        font-size: 15px;
+    }
+
+    .custom-single-txt {
+        font-size: 12px;
+    }
+
+    .item-number-txt{
+        margin-bottom: 10px;
+        padding-left: 115px;
+        padding-top: 0px;
+      }
+
+      .course-title{
+        font-size: 24px;
+      }
+
+      .profile-details{
+        margin-left: 50px;
+      }
+
+      .number-txt{
+        padding-bottom: 20px;
+      }
+
+      .people-210{
+        padding-top: 6px;
+        font-size: 12px;
+      }
+    
+}
+
+@media only screen and (min-width:340px) and (max-width: 359px) {
+  .card {
+    width: 325px;
+    height: auto;
+    margin-top: 33px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 280px;
+    padding-left: 24px;
+    font-size: 14px;
+}
+
+.vedio {
+    margin-left: 10px;
+    width: 295px;
+    height: auto;
+}
+
+.custom-card-area{
+    padding-left: 20%;
+  
+  }
+
+  .custom-button{
+
+    margin-left: 13px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+    padding-left: 104px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 572px;
+  padding-left: 10px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+}
+
+.custom-profile-body{
+  font-size: 12px;
+  text-align: left;
+  width: 275px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 56px;
+  left: 64px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 19px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 203px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 20px;
+    width: 290px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 50px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+  }
+  .bottom-txt {
+    font-size: 18px;
+    width: 239px;
+}
+
+}
+
+
+@media only screen and (min-width:360px) and (max-width: 379px) {
+  .card {
+    width: 325px;
+    height: auto;
+    margin-top: 33px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 280px;
+    padding-left: 24px;
+    font-size: 14px;
+}
+
+.vedio {
+    margin-left: 10px;
+    width: 254px;
+    height: auto;
+}
+
+.custom-card-area{
+    padding-left: 20%;
+  
+  }
+
+  .custom-button{
+
+    margin-left: 13px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+    padding-left: 104px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 370px;
+  padding-left: 20px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+}
+
+.custom-profile-body{
+  font-size: 12px;
+  text-align: left;
+  width: 275px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 56px;
+  left: 64px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 19px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 94px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 20px;
+    width: 290px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 50px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+  }
+  .bottom-txt {
+    font-size: 18px;
+    width: 239px;
+}
+
+}
+
+@media only screen and (min-width:380px) and (max-width: 399px) {
+  .card {
+    width: 325px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 29px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 356px;
+    padding-left: 24px;
+    font-size: 14px;
+}
+
+.vedio {
+    margin-left: 10px;
+    width: 294px;
+    height: auto;
+}
+
+.custom-card-area{
+    padding-left: 29%;
+  
+  }
+
+  .custom-button{
+
+    margin-left: 50px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 136px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 438px;
+  padding-left: 47px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 52px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+  font-size: 12px;
+  text-align: left;
+  width: 341px;
+  padding-left: 20px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 94px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 23px;
+    width: 374px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 50px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 23px;
+  }
+  .bottom-txt {
+    font-size: 18px;
+    width: 286px;
+    padding-left: 25px;
+}
+
+}
+
+@media only screen and (min-width:400px) and (max-width: 419px) {
+  .card {
+    width: 325px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 29px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 356px;
+    padding-left: 24px;
+    font-size: 14px;
+}
+
+.vedio {
+    margin-left: 10px;
+    width: 294px;
+    height: auto;
+}
+
+.custom-card-area{
+    padding-left: 29%;
+  
+  }
+
+  .custom-button{
+
+    margin-left: 50px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 136px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 438px;
+  padding-left: 47px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 69px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+  font-size: 12px;
+  text-align: left;
+  width: 341px;
+  padding-left: 20px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 123px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 23px;
+    width: 374px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 50px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 23px;
+  }
+  .bottom-txt {
+    font-size: 18px;
+    width: 286px;
+    padding-left: 25px;
+}
+
+}
+
+@media only screen and (min-width:420px) and (max-width: 439px) {
+  .card {
+    width: 395px;
+    height: auto;
+    margin-top: 33px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 356px;
+    padding-left: 24px;
+    font-size: 14px;
+}
+
+.vedio {
+  width: 421px;
+  height: auto;
+  margin-left: 20px;
+}
+
+.custom-card-area{
+    padding-left: 29%;
+  
+  }
+
+  .custom-button{
+
+    margin-left: 50px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 136px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 450px;
+  padding-left: 47px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 69px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+  font-size: 12px;
+  text-align: left;
+  width: 341px;
+  padding-left: 20px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 123px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 23px;
+    width: 374px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 92px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 23px;
+  }
+  .bottom-txt {
+    font-size: 18px;
+    width: 286px;
+    padding-left: 25px;
+}
+
+}
+
+@media only screen and (min-width:440px) and (max-width: 459px) {
+  .card {
+    width: 409px;
+    height: auto;
+    margin-top: 33px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 356px;
+    padding-left: 24px;
+    font-size: 14px;
+}
+
+.vedio {
+  width: 421px;
+  height: auto;
+  margin-left: 20px;
+}
+
+.custom-card-area{
+    padding-left: 29%;
+  
+  }
+
+  .custom-button{
+
+    margin-left: 50px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 136px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 466px;
+  padding-left: 47px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 69px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+  font-size: 12px;
+  text-align: left;
+  width: 341px;
+  padding-left: 20px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 123px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 23px;
+    width: 374px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 92px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 23px;
+  }
+  .bottom-txt {
+    font-size: 18px;
+    width: 286px;
+    padding-left: 25px;
+}
+
+}
+
+@media only screen and (min-width:460px) and (max-width: 479px) {
+  .card {
+    width: 439px;
+    height: auto;
+    margin-top: 33px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 426px;
+    padding-left: 24px;
+    font-size: 14px;
+}
+
+.vedio {
+  width: 421px;
+  height: auto;
+  margin-left: 20px;
+}
+
+.custom-card-area{
+    padding-left: 29%;
+  
+  }
+
+  .custom-button{
+
+    margin-left: 80px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 166px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 485px;
+  padding-left: 47px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 108px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+  font-size: 12px;
+  text-align: left;
+  width: 341px;
+  padding-left: 20px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 123px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 25px;
+    width: 429px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 92px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 52px;
+  }
+  .bottom-txt {
+    font-size: 18px;
+    width: 286px;
+    padding-left: 25px;
+}
+
+}
+
+@media only screen and (min-width:480px) and (max-width: 499px) {
+  .card {
+    width: 439px;
+    height: auto;
+    margin-top: 33px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 426px;
+    padding-left: 24px;
+    font-size: 14px;
+}
+
+.vedio {
+  width: 421px;
+  height: auto;
+  margin-left: 20px;
+}
+
+.custom-card-area{
+    padding-left: 29%;
+  
+  }
+
+  .custom-button{
+
+    margin-left: 80px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 166px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 485px;
+  padding-left: 47px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 108px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+  font-size: 12px;
+  text-align: left;
+  width: 439px;
+  padding-left: 20px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 123px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 25px;
+    width: 429px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 92px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 52px;
+  }
+  .bottom-txt {
+    font-size: 18px;
+    width: 286px;
+    padding-left: 25px;
+}
+
+}
+
+
+@media only screen and (min-width:500px) and (max-width: 549px) {
+  .card {
+    width: 456px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 33px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 502px;
+    padding-left: 25px;
+    font-size: 19px;
+}
+
+.vedio {
+  width: 421px;
+  height: auto;
+  margin-left: 20px;
+}
+
+.custom-card-area{
+    padding-left: 33%;
+  }
+
+  .custom-button{
+
+    margin-left: 112px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 195px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 572px;
+  padding-left: 47px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 146px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+    font-size: 14px;
+    text-align: left;
+    width: 509px;
+    padding-left: 20px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 123px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 29px;
+    width: 502px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 110px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 82px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 351px;
+}
+
+}
+
+@media only screen and (min-width:550px) and (max-width: 599px) {
+  .card {
+    width: 469px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 8px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 502px;
+    padding-left: 25px;
+    font-size: 19px;
+}
+
+.vedio {
+  width: 421px;
+  height: auto;
+  margin-left: 20px;
+}
+
+.custom-card-area{
+    padding-left: 33%;
+  }
+
+  .custom-button{
+
+    margin-left: 112px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 195px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 572px;
+  padding-left: 47px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 146px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+    font-size: 14px;
+    text-align: left;
+    width: 509px;
+    padding-left: 20px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 123px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 30px;
+    width: 502px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 110px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 82px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 351px;
+}
+
+}
+
+@media only screen and (min-width:600px) and (max-width: 649px) {
+  .card {
+    width: 469px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 32px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 502px;
+    padding-left: 25px;
+    font-size: 19px;
+}
+
+.vedio {
+  width: 421px;
+  height: auto;
+  margin-left: 20px;
+}
+
+.custom-card-area{
+    padding-left: 33%;
+  }
+
+  .custom-button{
+
+    margin-left: 112px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 195px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 572px;
+  padding-left: 47px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 125px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+    font-size: 14px;
+    text-align: left;
+    width: 509px;
+    padding-left: 20px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 183px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 30px;
+    width: 502px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 110px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 82px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 351px;
+}
+
+}
+
+@media only screen and (min-width:650px) and (max-width: 699px) {
+  .card {
+    width: 469px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 32px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 502px;
+    padding-left: 25px;
+    font-size: 19px;
+}
+
+.vedio {
+  width: 421px;
+  height: auto;
+  margin-left: 20px;
+}
+
+.custom-card-area{
+    padding-left: 33%;
+  }
+
+  .custom-button{
+
+    margin-left: 112px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 195px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 572px;
+  padding-left: 47px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 125px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+    font-size: 14px;
+    text-align: left;
+    width: 509px;
+    padding-left: 20px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 183px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 30px;
+    width: 502px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 110px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 82px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 351px;
+}
+
+}
+
+
+@media only screen and (min-width:700px) and (max-width: 749px) {
+  .card {
+    width: 469px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 32px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 502px;
+    padding-left: 25px;
+    font-size: 19px;
+}
+
+.vedio {
+  width: 421px;
+  height: auto;
+  margin-left: 20px;
+}
+
+.custom-card-area{
+    padding-left: 33%;
+  }
+
+  .custom-button{
+
+    margin-left: 112px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 195px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 572px;
+  padding-left: 47px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 125px;
+}
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+    font-size: 14px;
+    text-align: left;
+    width: 509px;
+    padding-left: 20px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    padding-left: 183px;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 30px;
+    width: 502px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 110px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 82px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 351px;
+}
+
+}
+
+
+
+
+@media only screen and (min-width:750px) and (max-width: 799px) {
+  .card {
+    width: 314px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 3px;
+  }
+  .local-text{
+    font-size: 10px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 332px;
+    padding-left: 25px;
+    font-size: 15px;
+}
+
+.vedio {
+  width: 306px;
+  height: 104px;
+}
+
+.custom-card-area{
+    /* padding-left: 33%; */
+  }
+
+  .custom-button{
+
+    margin-left: 43px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 137px;
+}
+
+.custom-item-area {
+  height: auto;
+  /* width: 572px; */
+  /* padding-left: 47px; */
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 194px;
+}
+
+.custom-profile-title {
+  padding-top: 74px;
+  font-size: 28px;
+  /* padding-left: 20px; */
+}
+
+.custom-profile-body{
+  font-size: 14px;
+  text-align: left;
+  width: 351px;
+  padding-left: 0px;
+}
+
+.profile-img{
+  height: 250px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 316px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    /* padding-left: 183px; */
+    padding-top: 0px;
+    margin-left: -20px;
+  }
+
+  .course-title{
+    font-size: 30px;
+    /* width: 502px; */
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 65px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 24px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 400px;
+}
+
+}
+
+
+@media only screen and (min-width:800px) and (max-width: 899px) {
+  .card {
+    width: 314px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 3px;
+  }
+  .local-text{
+    font-size: 10px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 332px;
+    padding-left: 25px;
+    font-size: 15px;
+}
+
+.vedio {
+  width: 306px;
+  height: 104px;
+}
+
+.custom-card-area{
+    /* padding-left: 33%; */
+  }
+
+  .custom-button{
+
+    margin-left: 43px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 137px;
+}
+
+.custom-item-area {
+  height: auto;
+  /* width: 572px; */
+  /* padding-left: 47px; */
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 194px;
+}
+
+.custom-profile-title {
+  padding-top: 74px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+  font-size: 14px;
+  text-align: left;
+  width: 401px;
+  padding-left: 20px;
+}
+
+.profile-img{
+  height: 250px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 316px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    /* padding-left: 183px; */
+    padding-top: 0px;
+    margin-left: -20px;
+  }
+
+  .course-title{
+    font-size: 30px;
+    /* width: 502px; */
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 65px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 24px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 400px;
+}
+
+}
+
+@media only screen and (min-width:900px) and (max-width: 999px) {
+  .card {
+    width: 314px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 30px;
+  }
+  .local-text{
+    font-size: 10px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 332px;
+    padding-left: 25px;
+    font-size: 15px;
+}
+
+.vedio {
+  width: 306px;
+  height: 104px;
+}
+
+.custom-card-area{
+    /* padding-left: 33%; */
+  }
+
+  .custom-button{
+
+    margin-left: 43px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 137px;
+}
+
+.custom-item-area {
+  height: auto;
+  /* width: 572px; */
+  /* padding-left: 47px; */
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+    margin-right: 194px;
+}
+
+.custom-profile-title {
+  padding-top: 74px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+  font-size: 14px;
+  text-align: left;
+  width: 401px;
+  padding-left: 20px;
+}
+
+.profile-img{
+  height: 250px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 316px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    /* padding-left: 183px; */
+    padding-top: 0px;
+    margin-left: -20px;
+  }
+
+  .course-title{
+    font-size: 30px;
+    /* width: 502px; */
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 65px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 24px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 400px;
+}
+
+}
+
+
+@media only screen and (min-width:1000px) and (max-width: 1099px) {
+  .card {
+    width: 314px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 30px;
+  }
+  .local-text{
+    font-size: 10px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 414px;
+    padding-left: 25px;
+    font-size: 15px;
+}
+
+.vedio {
+  width: 306px;
+  height: 104px;
+}
+
+.custom-card-area{
+    /* padding-left: 33%; */
+  }
+
+  .custom-button{
+
+    margin-left: 43px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 137px;
+}
+
+.custom-item-area {
+  height: auto;
+  /* width: 572px; */
+  /* padding-left: 47px; */
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+}
+
+.custom-profile-title {
+  padding-top: 74px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+  font-size: 16px;
+  text-align: left;
+  width: 461px;
+  padding-left: 20px;
+}
+
+.profile-img{
+  height: 250px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 316px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    /* padding-left: 183px; */
+    padding-top: 0px;
+    margin-left: -20px;
+  }
+
+  .course-title{
+    font-size: 30px;
+    /* width: 502px; */
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 65px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 24px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 400px;
+}
+
+}
+
+
+@media only screen and (min-width:1100px) and (max-width: 1199px) {
+  .card {
+    width: 314px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 30px;
+  }
+  .local-text{
+    font-size: 10px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 414px;
+    padding-left: 25px;
+    font-size: 15px;
+}
+
+.vedio {
+  width: 306px;
+  height: 104px;
+}
+
+.custom-card-area{
+    /* padding-left: 33%; */
+  }
+
+  .custom-button{
+
+    margin-left: 43px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 137px;
+}
+
+.custom-item-area {
+  height: auto;
+  /* width: 572px; */
+  /* padding-left: 47px; */
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+}
+
+.custom-profile-title {
+  padding-top: 74px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+  font-size: 16px;
+  text-align: left;
+  width: 461px;
+  padding-left: 20px;
+}
+
+.profile-img{
+  height: 250px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 316px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    /* padding-left: 183px; */
+    padding-top: 0px;
+    margin-left: -20px;
+  }
+
+  .course-title{
+    font-size: 30px;
+    /* width: 502px; */
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 65px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 24px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 400px;
+}
+
+}
+
+
+@media only screen and (min-width:1200px) and (max-width: 1299px) {
+  .card {
+    width: 314px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 30px;
+  }
+  .local-text{
+    font-size: 10px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 414px;
+    padding-left: 25px;
+    font-size: 15px;
+}
+
+.vedio {
+  width: 306px;
+  height: 104px;
+}
+
+.custom-card-area{
+    /* padding-left: 33%; */
+  }
+
+  .custom-button{
+
+    margin-left: 43px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  padding-left: 137px;
+}
+
+.custom-item-area {
+  height: auto;
+  /* width: 572px; */
+  /* padding-left: 47px; */
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+}
+
+.custom-profile-title {
+  padding-top: 74px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+  font-size: 16px;
+  text-align: left;
+  width: 461px;
+  padding-left: 20px;
+}
+
+.profile-img{
+  height: 250px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 316px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    /* padding-left: 183px; */
+    padding-top: 0px;
+    margin-left: -20px;
+  }
+
+  .course-title{
+    font-size: 30px;
+    /* width: 502px; */
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 65px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 24px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 400px;
+}
+
+}
+
+
+@media only screen and (min-width:1300px) and (max-width: 1399px) {
+  .card {
+    width: 314px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 30px;
+  }
+  .local-text{
+    font-size: 10px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 414px;
+    padding-left: 25px;
+    font-size: 15px;
+}
+
+.vedio {
+  width: 306px;
+  height: 104px;
+}
+
+.custom-card-area{
+  padding-left: 9%;
+  }
+
+  .custom-button{
+
+    margin-left: 43px;
+    height: 41px;
+    margin-bottom: 10px;
+}
+
+.learn-more-txt{
+  /* padding-left: 137px; */
+}
+
+.custom-item-area {
+  height: auto;
+  /* width: 572px; */
+  /* padding-left: 47px; */
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+  .enroll-button {
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 34px;
+}
+
+.custom-profile-title {
+  padding-top: 22px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+  font-size: 16px;
+  text-align: left;
+  width: 461px;
+  padding-left: 20px;
+}
+
+.profile-img{
+  height: 250px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 316px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    /* padding-left: 183px; */
+    padding-top: 0px;
+    margin-left: -20px;
+  }
+
+  .course-title{
+    font-size: 30px;
+    /* width: 502px; */
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 65px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 24px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 400px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+  
+  
