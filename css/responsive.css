@@ -32,9 +32,10 @@
 
       .custom-button{
 
-        margin-left: 13px;
+        margin-left: 0px;
         height: 41px;
         margin-bottom: 10px;
+        width: 100%;
 }
 
     .learn-more-txt{
@@ -43,15 +44,21 @@
 
     .custom-item-area {
       height: auto;
-      width: 370px;
-      padding-left: 20px;
+      width: 390px;
+      padding-left: 0px;
+  }
+
+  .local-text{
+    padding-top: 5px;
+    font-size: 9px;
   }
      
       .enroll-button {
-        border-radius: 15px;
-        font-size: 15px;
+        border-radius: 20px;
+        font-size: 18px;
         font-weight: 600;
-        height: 42px;
+        height: 41px;
+        width: 100%;
     }
 
     .custom-profile-title {
@@ -80,12 +87,16 @@
     }
 
     .custom-box-two {
+        /* margin-bottom: 12px; */
+        margin-left: -58px;
         margin-bottom: 12px;
+        width: 320px;
     }
 
     .custom-box{
-        margin-left: 23px;
-        margin-bottom: 12px;
+      margin-left: -58px;
+      margin-bottom: 12px;
+      width: 320px;
       }
 
       .main-content-area{
@@ -128,6 +139,16 @@
         padding-top: 6px;
         font-size: 12px;
       }
+
+      .bottom-txt{
+        text-align: center;
+        font-size: 15px;
+        width: 275px;
+      }
+
+      .col-sm-4{
+        width: 33.33%;
+      }
     
 }
 
@@ -158,6 +179,9 @@
     height: auto;
 }
 
+
+
+
 .custom-card-area{
     padding-left: 20%;
   
@@ -165,9 +189,18 @@
 
   .custom-button{
 
-    margin-left: 13px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
+}
+
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
 }
 
 .learn-more-txt{
@@ -176,7 +209,7 @@
 
 .custom-item-area {
   height: auto;
-  width: 572px;
+  width: 410px;
   padding-left: 10px;
 }
  
@@ -185,10 +218,11 @@
     width: 261px;
   }
   .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
+    border-radius: 20px;
+    font-size: 18px;
     font-weight: 600;
-    height: 34px;
+    height: 41px;
+    width: 100%;
 }
 
 .custom-profile-title {
@@ -218,11 +252,14 @@
 
 .custom-box-two {
     margin-bottom: 12px;
+    width: 100%;
+    margin-left: -32px;
 }
 
 .custom-box{
-    margin-left: 23px;
-    margin-bottom: 12px;
+  margin-left: -32px;
+  margin-bottom: 12px;
+  width: 100%;
   }
 
   .main-content-area{
@@ -244,9 +281,7 @@
 }
 
 .item-number-txt{
-    margin-bottom: 10px;
-    padding-left: 203px;
-    padding-top: 0px;
+  padding-left: 124px;
   }
 
   .course-title{
@@ -272,12 +307,22 @@
     width: 239px;
 }
 
+.col-sm-4{
+  width: 33.33%;
+}
+
+
+.local-text{
+  padding-top: 5px;
+  font-size: 10px;
+}
+
 }
 
 
 @media only screen and (min-width:360px) and (max-width: 379px) {
   .card {
-    width: 325px;
+    width: 332px;
     height: auto;
     margin-top: 33px;
   }
@@ -309,9 +354,10 @@
 
   .custom-button{
 
-    margin-left: 13px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
 }
 
 .learn-more-txt{
@@ -320,8 +366,8 @@
 
 .custom-item-area {
   height: auto;
-  width: 370px;
-  padding-left: 20px;
+  width: 424px;
+  padding-left: 5px;
 }
  
   .bottom-txt{
@@ -329,10 +375,11 @@
     width: 261px;
   }
   .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
+    border-radius: 20px;
+    font-size: 18px;
     font-weight: 600;
-    height: 34px;
+    height: 41px;
+    width: 100%;
 }
 
 .custom-profile-title {
@@ -342,8 +389,8 @@
 
 .custom-profile-body{
   font-size: 12px;
-  text-align: left;
-  width: 275px;
+  text-align: justify;
+  width: 332px;
 }
 
 .profile-img{
@@ -362,11 +409,14 @@
 
 .custom-box-two {
     margin-bottom: 12px;
+    width: 100%;
+    margin-left: -31px;
 }
 
 .custom-box{
-    margin-left: 23px;
+    margin-left: -31px;
     margin-bottom: 12px;
+    width: 100%;
   }
 
   .main-content-area{
@@ -389,7 +439,7 @@
 
 .item-number-txt{
     margin-bottom: 10px;
-    padding-left: 94px;
+    padding-left: 131px;
     padding-top: 0px;
   }
 
@@ -415,6 +465,12 @@
     font-size: 18px;
     width: 239px;
 }
+
+.col-sm-4{
+  width: 33.33%;
+}
+
+
 
 }
 
@@ -453,9 +509,18 @@
 
   .custom-button{
 
-    margin-left: 50px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
+}
+
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
 }
 
 .learn-more-txt{
@@ -464,21 +529,16 @@
 
 .custom-item-area {
   height: auto;
-  width: 438px;
-  padding-left: 47px;
+  width: 454px;
+  padding-left: 15px;
 }
  
   .bottom-txt{
     font-size: 18px;
     width: 261px;
   }
-  .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
-    font-weight: 600;
-    height: 34px;
-    margin-right: 52px;
-}
+  
+ 
 
 .custom-profile-title {
   padding-top: 290px;
@@ -508,12 +568,15 @@
 }
 
 .custom-box-two {
+    margin-left: -49px;
     margin-bottom: 12px;
+    width: 100%;
 }
 
 .custom-box{
-    margin-left: 23px;
-    margin-bottom: 12px;
+  margin-left: -49px;
+  margin-bottom: 12px;
+  width: 100%;
   }
 
   .main-content-area{
@@ -536,7 +599,7 @@
 
 .item-number-txt{
     margin-bottom: 10px;
-    padding-left: 94px;
+    padding-left: 140px;
     padding-top: 0px;
   }
 
@@ -563,6 +626,15 @@
     font-size: 18px;
     width: 286px;
     padding-left: 25px;
+}
+
+.col-sm-4{
+  width: 33.33%;
+}
+
+.local-text{
+  font-size: 11px;
+  padding-top: 5px;
 }
 
 }
@@ -602,9 +674,18 @@
 
   .custom-button{
 
-    margin-left: 50px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
+}
+
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
 }
 
 .learn-more-txt{
@@ -613,21 +694,14 @@
 
 .custom-item-area {
   height: auto;
-  width: 438px;
-  padding-left: 47px;
+  width: 475px;
+  padding-left: 11px;
 }
  
   .bottom-txt{
     font-size: 18px;
     width: 261px;
   }
-  .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
-    font-weight: 600;
-    height: 34px;
-    margin-right: 69px;
-}
 
 .custom-profile-title {
   padding-top: 290px;
@@ -658,11 +732,14 @@
 
 .custom-box-two {
     margin-bottom: 12px;
+    width: 100%;
+    margin-left: -52px;
 }
 
 .custom-box{
-    margin-left: 23px;
+    margin-left: -52px;
     margin-bottom: 12px;
+    width: 100%;
   }
 
   .main-content-area{
@@ -685,7 +762,7 @@
 
 .item-number-txt{
     margin-bottom: 10px;
-    padding-left: 123px;
+    padding-left: 160px;
     padding-top: 0px;
   }
 
@@ -712,6 +789,15 @@
     font-size: 18px;
     width: 286px;
     padding-left: 25px;
+}
+
+.col-sm-4{
+  width: 33.33%;
+}
+
+.local-text{
+  font-size: 11px;
+  padding-top: 5px;
 }
 
 }
@@ -750,9 +836,18 @@
 
   .custom-button{
 
-    margin-left: 50px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
+}
+
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
 }
 
 .learn-more-txt{
@@ -761,21 +856,15 @@
 
 .custom-item-area {
   height: auto;
-  width: 450px;
-  padding-left: 47px;
+  width: 482px;
+  padding-left: 10px;
 }
  
   .bottom-txt{
     font-size: 18px;
     width: 261px;
   }
-  .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
-    font-weight: 600;
-    height: 34px;
-    margin-right: 69px;
-}
+  
 
 .custom-profile-title {
   padding-top: 290px;
@@ -804,14 +893,19 @@
   z-index: 1;
 }
 
+.custom-box{
+  margin-left: -57px;
+  margin-bottom: 12px;
+  width: 100%;
+  }
+
 .custom-box-two {
-    margin-bottom: 12px;
+  margin-left: -57px;
+  margin-bottom: 12px;
+  width: 100%;
 }
 
-.custom-box{
-    margin-left: 23px;
-    margin-bottom: 12px;
-  }
+
 
   .main-content-area{
     height: auto;
@@ -833,7 +927,7 @@
 
 .item-number-txt{
     margin-bottom: 10px;
-    padding-left: 123px;
+    text-align: center;
     padding-top: 0px;
   }
 
@@ -860,6 +954,15 @@
     font-size: 18px;
     width: 286px;
     padding-left: 25px;
+}
+
+.col-sm-4{
+  width: 33.33%;
+}
+
+.local-text{
+  font-size: 11px;
+  padding-top: 5px;
 }
 
 }
@@ -896,34 +999,39 @@
   
   }
 
-  .custom-button{
+   .custom-button{
 
-    margin-left: 50px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
 }
 
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
+}
+
+
+
 .learn-more-txt{
-  padding-left: 136px;
+  padding-left: 170px;
 }
 
 .custom-item-area {
   height: auto;
-  width: 466px;
-  padding-left: 47px;
+  width: 509px;
+  padding-left: 9px;
 }
  
   .bottom-txt{
     font-size: 18px;
     width: 261px;
   }
-  .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
-    font-weight: 600;
-    height: 34px;
-    margin-right: 69px;
-}
+  
 
 .custom-profile-title {
   padding-top: 290px;
@@ -952,14 +1060,7 @@
   z-index: 1;
 }
 
-.custom-box-two {
-    margin-bottom: 12px;
-}
 
-.custom-box{
-    margin-left: 23px;
-    margin-bottom: 12px;
-  }
 
   .main-content-area{
     height: auto;
@@ -981,7 +1082,7 @@
 
 .item-number-txt{
     margin-bottom: 10px;
-    padding-left: 123px;
+    text-align: center;
     padding-top: 0px;
   }
 
@@ -1002,13 +1103,34 @@
   .people-210{
     padding-top: 6px;
     font-size: 12px;
-    padding-left: 23px;
+    padding-left: 60px;
   }
   .bottom-txt {
     font-size: 18px;
     width: 286px;
     padding-left: 25px;
 }
+
+.custom-box{
+  margin-left: -57px;
+  margin-bottom: 12px;
+  width: 100%;
+  }
+
+.custom-box-two {
+  margin-left: -57px;
+  margin-bottom: 12px;
+  width: 100%;
+}
+.col-sm-4{
+  width: 33.33%;
+}
+
+.local-text{
+  font-size: 11px;
+  padding-top: 5px;
+}
+
 
 }
 
@@ -1046,32 +1168,35 @@
 
   .custom-button{
 
-    margin-left: 80px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
+}
+
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
 }
 
 .learn-more-txt{
-  padding-left: 166px;
+  padding-left: 170px;
 }
 
 .custom-item-area {
   height: auto;
-  width: 485px;
-  padding-left: 47px;
+  width: 538px;
+  padding-left: 10px;
 }
  
   .bottom-txt{
     font-size: 18px;
     width: 261px;
   }
-  .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
-    font-weight: 600;
-    height: 34px;
-    margin-right: 108px;
-}
+  
 
 .custom-profile-title {
   padding-top: 290px;
@@ -1100,14 +1225,6 @@
   z-index: 1;
 }
 
-.custom-box-two {
-    margin-bottom: 12px;
-}
-
-.custom-box{
-    margin-left: 23px;
-    margin-bottom: 12px;
-  }
 
   .main-content-area{
     height: auto;
@@ -1129,7 +1246,7 @@
 
 .item-number-txt{
     margin-bottom: 10px;
-    padding-left: 123px;
+    text-align: center;
     padding-top: 0px;
   }
 
@@ -1158,11 +1275,31 @@
     padding-left: 25px;
 }
 
+.custom-box{
+  margin-left: -57px;
+  margin-bottom: 12px;
+  width: 100%;
+  }
+
+.custom-box-two {
+  margin-left: -57px;
+  margin-bottom: 12px;
+  width: 100%;
+}
+.col-sm-4{
+  width: 33.33%;
+}
+
+.local-text{
+  font-size: 11px;
+  padding-top: 5px;
+}
+
 }
 
 @media only screen and (min-width:480px) and (max-width: 499px) {
   .card {
-    width: 439px;
+    width: 469px;
     height: auto;
     margin-top: 33px;
   }
@@ -1194,10 +1331,20 @@
 
   .custom-button{
 
-    margin-left: 80px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
 }
+
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
+}
+
 
 .learn-more-txt{
   padding-left: 166px;
@@ -1205,21 +1352,15 @@
 
 .custom-item-area {
   height: auto;
-  width: 485px;
-  padding-left: 47px;
+  width: 558px;
+  padding-left: 10px;
 }
  
   .bottom-txt{
     font-size: 18px;
     width: 261px;
   }
-  .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
-    font-weight: 600;
-    height: 34px;
-    margin-right: 108px;
-}
+  
 
 .custom-profile-title {
   padding-top: 290px;
@@ -1230,7 +1371,7 @@
 .custom-profile-body{
   font-size: 12px;
   text-align: left;
-  width: 439px;
+  width: 489px;
   padding-left: 20px;
 }
 
@@ -1248,14 +1389,7 @@
   z-index: 1;
 }
 
-.custom-box-two {
-    margin-bottom: 12px;
-}
 
-.custom-box{
-    margin-left: 23px;
-    margin-bottom: 12px;
-  }
 
   .main-content-area{
     height: auto;
@@ -1277,7 +1411,7 @@
 
 .item-number-txt{
     margin-bottom: 10px;
-    padding-left: 123px;
+    text-align: center;
     padding-top: 0px;
   }
 
@@ -1304,6 +1438,26 @@
     font-size: 18px;
     width: 286px;
     padding-left: 25px;
+}
+
+.custom-box{
+  margin-left: -57px;
+  margin-bottom: 12px;
+  width: 100%;
+  }
+
+.custom-box-two {
+  margin-left: -57px;
+  margin-bottom: 12px;
+  width: 100%;
+}
+.col-sm-4{
+  width: 33.33%;
+}
+
+.local-text{
+  font-size: 11px;
+  padding-top: 5px;
 }
 
 }
