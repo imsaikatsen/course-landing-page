@@ -343,7 +343,7 @@
 
 .vedio {
     margin-left: 10px;
-    width: 254px;
+    width: 300px;
     height: auto;
 }
 
@@ -445,7 +445,7 @@
 
   .course-title{
     font-size: 20px;
-    width: 290px;
+    width: 322px;
     height: auto;
   }
 
@@ -1492,15 +1492,29 @@
 }
 
 .custom-card-area{
-    padding-left: 33%;
+  padding-left: 0%;
   }
 
   .custom-button{
 
-    margin-left: 112px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
 }
+
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
+}
+
+  
+  .learn-more-txt{
+    padding-left: 166px;
+  }
 
 .learn-more-txt{
   padding-left: 195px;
@@ -1508,21 +1522,15 @@
 
 .custom-item-area {
   height: auto;
-  width: 572px;
-  padding-left: 47px;
+  width: 610px;
+  padding-left: 6px;
 }
  
   .bottom-txt{
     font-size: 18px;
     width: 261px;
   }
-  .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
-    font-weight: 600;
-    height: 34px;
-    margin-right: 146px;
-}
+ 
 
 .custom-profile-title {
   padding-top: 290px;
@@ -1532,7 +1540,7 @@
 
 .custom-profile-body{
     font-size: 14px;
-    text-align: left;
+    text-align: justify;
     width: 509px;
     padding-left: 20px;
 }
@@ -1551,14 +1559,7 @@
   z-index: 1;
 }
 
-.custom-box-two {
-    margin-bottom: 12px;
-}
 
-.custom-box{
-    margin-left: 23px;
-    margin-bottom: 12px;
-  }
 
   .main-content-area{
     height: auto;
@@ -1580,7 +1581,7 @@
 
 .item-number-txt{
     margin-bottom: 10px;
-    padding-left: 123px;
+    text-align: center;
     padding-top: 0px;
   }
 
@@ -1608,11 +1609,34 @@
     width: 351px;
 }
 
+.custom-box{
+  
+  margin-bottom: 12px;
+  width: 100%;
+  }
+
+.custom-box-two {
+  
+  margin-bottom: 12px;
+  width: 100%;
+  margin-left: 0px;
 }
+.col-sm-4{
+  width: 33.33%;
+}
+
+.local-text{
+  font-size: 11px;
+  padding-top: 5px;
+}
+
+}
+
+
 
 @media only screen and (min-width:550px) and (max-width: 599px) {
   .card {
-    width: 469px;
+    width: 494px;
     height: auto;
     margin-top: 33px;
     margin-left: 8px;
@@ -1639,15 +1663,26 @@
 }
 
 .custom-card-area{
-    padding-left: 33%;
+    padding-left: 0%;
   }
 
   .custom-button{
 
-    margin-left: 112px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
 }
+
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
+}
+
+
 
 .learn-more-txt{
   padding-left: 195px;
@@ -1655,21 +1690,15 @@
 
 .custom-item-area {
   height: auto;
-  width: 572px;
-  padding-left: 47px;
+  width: 610px;
+  padding-left: 0px;
 }
  
   .bottom-txt{
     font-size: 18px;
     width: 261px;
   }
-  .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
-    font-weight: 600;
-    height: 34px;
-    margin-right: 146px;
-}
+
 
 .custom-profile-title {
   padding-top: 290px;
@@ -1698,14 +1727,18 @@
   z-index: 1;
 }
 
-.custom-box-two {
-    margin-bottom: 12px;
-}
-
 .custom-box{
-    margin-left: 23px;
-    margin-bottom: 12px;
+  
+  margin-bottom: 12px;
+  width: 100%;
   }
+
+.custom-box-two {
+  
+  margin-bottom: 12px;
+  width: 100%;
+  margin-left: 0px;
+}
 
   .main-content-area{
     height: auto;
@@ -1727,7 +1760,7 @@
 
 .item-number-txt{
     margin-bottom: 10px;
-    padding-left: 123px;
+    text-align: center;
     padding-top: 0px;
   }
 
@@ -1786,14 +1819,23 @@
 }
 
 .custom-card-area{
-    padding-left: 33%;
+    padding-left: 15%;
   }
 
   .custom-button{
 
-    margin-left: 112px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
+}
+
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
 }
 
 .learn-more-txt{
@@ -1802,21 +1844,15 @@
 
 .custom-item-area {
   height: auto;
-  width: 572px;
-  padding-left: 47px;
+  width: 611px;
+  padding-left: 0px;
 }
  
   .bottom-txt{
     font-size: 18px;
     width: 261px;
   }
-  .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
-    font-weight: 600;
-    height: 34px;
-    margin-right: 125px;
-}
+
 
 .custom-profile-title {
   padding-top: 290px;
@@ -1874,7 +1910,7 @@
 
 .item-number-txt{
     margin-bottom: 10px;
-    padding-left: 183px;
+    text-align: center;
     padding-top: 0px;
   }
 
@@ -1933,14 +1969,23 @@
 }
 
 .custom-card-area{
-    padding-left: 33%;
+  padding-left: 15%;
   }
 
   .custom-button{
 
-    margin-left: 112px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
+}
+
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
 }
 
 .learn-more-txt{
@@ -1949,21 +1994,15 @@
 
 .custom-item-area {
   height: auto;
-  width: 572px;
-  padding-left: 47px;
+  width: 619px;
+  padding-left: 0px;
 }
  
   .bottom-txt{
     font-size: 18px;
     width: 261px;
   }
-  .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
-    font-weight: 600;
-    height: 34px;
-    margin-right: 125px;
-}
+
 
 .custom-profile-title {
   padding-top: 290px;
@@ -2021,7 +2060,7 @@
 
 .item-number-txt{
     margin-bottom: 10px;
-    padding-left: 183px;
+    text-align: center;
     padding-top: 0px;
   }
 
@@ -2081,14 +2120,23 @@
 }
 
 .custom-card-area{
-    padding-left: 33%;
+  padding-left: 15%;
   }
 
   .custom-button{
 
-    margin-left: 112px;
+    margin-left: 0px;
     height: 41px;
     margin-bottom: 10px;
+    width: 100%;
+}
+
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
 }
 
 .learn-more-txt{
@@ -2097,21 +2145,15 @@
 
 .custom-item-area {
   height: auto;
-  width: 572px;
-  padding-left: 47px;
+  width: 638px;
+  padding-left: 0px;
 }
  
   .bottom-txt{
     font-size: 18px;
     width: 261px;
   }
-  .enroll-button {
-    border-radius: 15px;
-    font-size: 15px;
-    font-weight: 600;
-    height: 34px;
-    margin-right: 125px;
-}
+ 
 
 .custom-profile-title {
   padding-top: 290px;
@@ -2121,7 +2163,7 @@
 
 .custom-profile-body{
     font-size: 14px;
-    text-align: left;
+    text-align: justify;
     width: 509px;
     padding-left: 20px;
 }
@@ -2169,7 +2211,157 @@
 
 .item-number-txt{
     margin-bottom: 10px;
-    padding-left: 183px;
+    text-align: center;
+    padding-top: 0px;
+  }
+
+  .course-title{
+    font-size: 30px;
+    width: 502px;
+    height: auto;
+  }
+
+  .profile-details{
+    margin-left: 110px;
+  }
+
+  .number-txt{
+    padding-bottom: 20px;
+  }
+
+  .people-210{
+    padding-top: 6px;
+    font-size: 12px;
+    padding-left: 82px;
+  }
+  .bottom-txt {
+    font-size: 21px;
+    width: 351px;
+}
+
+}
+
+@media only screen and (min-width:700px) and (max-width: 749px) {
+  .card {
+    width: 469px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 32px;
+  }
+  .engineer-title{
+    padding-left: 28px;
+    font-size: 26px;
+  }
+  .carrier-focus-txt{
+    padding-top: 43px;
+    padding-left: 28px;
+    font-size: 15px;
+  }
+  .engineer-details {
+    width: 502px;
+    padding-left: 25px;
+    font-size: 19px;
+}
+
+.vedio {
+  width: 421px;
+  height: auto;
+  margin-left: 20px;
+}
+
+.custom-card-area{
+  padding-left: 15%;
+  }
+
+  .custom-button{
+
+    margin-left: 0px;
+    height: 41px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.enroll-button {
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  height: 41px;
+  width: 100%;
+}
+
+.learn-more-txt{
+  padding-left: 195px;
+}
+
+.custom-item-area {
+  height: auto;
+  width: 638px;
+  padding-left: 0px;
+}
+ 
+  .bottom-txt{
+    font-size: 18px;
+    width: 261px;
+  }
+ 
+
+.custom-profile-title {
+  padding-top: 290px;
+  font-size: 28px;
+  padding-left: 20px;
+}
+
+.custom-profile-body{
+    font-size: 14px;
+    text-align: justify;
+    width: 509px;
+    padding-left: 20px;
+}
+
+.profile-img{
+  height: 210px;
+  top: 54px;
+  left: 84px;
+}
+
+.profile-img-bg{
+  height: 278px;
+  position: absolute;
+  top: 36px;
+  left: 54px;
+  z-index: 1;
+}
+
+.custom-box-two {
+    margin-bottom: 12px;
+}
+
+.custom-box{
+    margin-left: 23px;
+    margin-bottom: 12px;
+  }
+
+  .main-content-area{
+    height: auto;
+    
+  }
+
+  .custom-padding-top-28{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .text-lesson{
+    font-size: 15px;
+}
+
+.custom-single-txt {
+    font-size: 12px;
+}
+
+.item-number-txt{
+    margin-bottom: 10px;
+    text-align: center;
     padding-top: 0px;
   }
 
@@ -2424,8 +2616,8 @@
 
 .custom-profile-body{
   font-size: 14px;
-  text-align: left;
-  width: 401px;
+  text-align: justify;
+  width: 358px;
   padding-left: 20px;
 }
 
