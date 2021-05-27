@@ -149,7 +149,7 @@
       .col-sm-4{
         width: 33.33%;
       }
-    
+      
 }
 
 @media only screen and (min-width:340px) and (max-width: 359px) {
@@ -3446,10 +3446,54 @@
 }
 
 
+@media only screen and (min-width:320px) and (max-width: 800px) {
+
+.sticky-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 1000000;
+  background: cadetblue;
+}
+
+.sticky-enroll-button{
+  
+  display: block;
+  background-color: #ffd500;
+  color: black;
+  border: none;
+  border-radius: 0px;
+  font-size: 13px;
+  font-weight: 600;
+  height: 36px;
+  width: 100%;
+  margin-top: 0px;
+}
+
+.sticky-logo{
+  height: 36px;
+ 
+}
+
+.visible-title {
+  visibility: visible;
+}
 
 
+}
 
 
+@media only screen and (min-width:800px) and (max-width: 3000px) {
+
+  .sticky-header {
+    
+    display: none;
+  }
+  
+  }
+  
 
 
 
