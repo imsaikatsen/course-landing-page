@@ -1,10 +1,15 @@
-$(window).scroll(function(){
-    if ($(window).scrollTop() >= 5) {
-        $('col').addClass('sticky-header');
-        $('col div').addClass('visible-title');
-    }
-    else {
-        $('col').removeClass('sticky-header');
-        $('col div').removeClass('visible-title');
-    }
-});
+var prevScrollpos = window.pageYOffset;
+
+window.onscroll = function() {
+
+var currentScrollPos = window.pageYOffset;
+
+  if (prevScrollpos >= 10 ) {
+    document.getElementById("sticky-header").style.display = "inline";
+  }
+  else {
+    document.getElementById("sticky-header").style.display = "none";
+  }
+  prevScrollpos = currentScrollPos;
+}
+
